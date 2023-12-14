@@ -1,11 +1,11 @@
 import Image from "next/image";
 
 const Aboutdata = [
-    {
-        imgSrc: "/assets/network/bangladesh.svg",
-        country: "Bangladesh",
-        paragraph: 'Embracing data compliance initiatives, fostering innovation, and bringing together tech enthusiasts across the continent.',
-    },
+    // {
+    //     imgSrc: "/assets/network/bangladesh.svg",
+    //     country: "Bangladesh",
+    //     paragraph: 'Embracing data compliance initiatives, fostering innovation, and bringing together tech enthusiasts across the continent.',
+    // },
     {
         imgSrc: "/assets/network/america.svg",
         country: "United States",
