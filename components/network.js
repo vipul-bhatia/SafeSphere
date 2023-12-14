@@ -31,7 +31,7 @@ const Network = () => {
 
                 <Image src={'/assets/network/map.png'} alt={"map-image"} width={1400} height={800} />
 
-                <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-x-16 gap-y-4 lg:gap-x-8 '>
+                <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-16 gap-y-4 lg:gap-x-8 '>
                     {Aboutdata.map((item, i) => (
                         <div key={i} className='bg-white rounded-2xl p-5 shadow-xl dark:bg-trueGray-800'>
                             <div className="flex justify-start items-center gap-2 " >
